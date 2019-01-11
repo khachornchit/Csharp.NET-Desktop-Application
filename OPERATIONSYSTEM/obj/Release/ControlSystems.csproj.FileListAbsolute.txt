@@ -1,0 +1,11 @@
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\ControlSystems.dll
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\ControlSystems.pdb
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\ControlTasks.dll
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\IOControllers.dll
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\Utilities.dll
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\ControlTasks.pdb
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\IOControllers.pdb
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\bin\Release\Utilities.pdb
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\obj\Release\ControlSystems.csprojResolveAssemblyReference.cache
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\obj\Release\ControlSystems.dll
+E:\DATA\uDev\2013\AutoTesting11\ControlSystems\obj\Release\ControlSystems.pdb

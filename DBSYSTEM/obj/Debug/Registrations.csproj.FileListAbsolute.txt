@@ -1,0 +1,4 @@
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Debug\Registrations.csprojResolveAssemblyReference.cache
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Debug\Registrations.FormTransfer.resources
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Debug\Registrations.FormTransferTesting.resources
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Debug\Registrations.csproj.GenerateResource.Cache

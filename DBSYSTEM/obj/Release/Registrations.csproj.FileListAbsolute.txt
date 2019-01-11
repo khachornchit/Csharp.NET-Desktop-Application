@@ -1,0 +1,10 @@
+E:\DATA\uDev\2013\AutoTesting11\Registrations\bin\Release\Registration.dll
+E:\DATA\uDev\2013\AutoTesting11\Registrations\bin\Release\Registration.pdb
+E:\DATA\uDev\2013\AutoTesting11\Registrations\bin\Release\Utilities.dll
+E:\DATA\uDev\2013\AutoTesting11\Registrations\bin\Release\Utilities.pdb
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Release\Registrations.csprojResolveAssemblyReference.cache
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Release\Registrations.FormTransfer.resources
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Release\Registrations.FormTransferTesting.resources
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Release\Registrations.csproj.GenerateResource.Cache
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Release\Registration.dll
+E:\DATA\uDev\2013\AutoTesting11\Registrations\obj\Release\Registration.pdb

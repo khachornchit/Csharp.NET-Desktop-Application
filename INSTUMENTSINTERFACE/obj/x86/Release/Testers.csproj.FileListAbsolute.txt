@@ -1,0 +1,17 @@
+E:\DATA\uDev\2013\AutoTesting11\Testers\bin\x86\Release\Testers.dll
+E:\DATA\uDev\2013\AutoTesting11\Testers\bin\x86\Release\Testers.pdb
+E:\DATA\uDev\2013\AutoTesting11\Testers\bin\x86\Release\Utilities.dll
+E:\DATA\uDev\2013\AutoTesting11\Testers\bin\x86\Release\Utilities.pdb
+E:\DATA\uDev\2013\AutoTesting11\Testers\obj\x86\Release\Testers.csproj.GenerateResource.Cache
+E:\DATA\uDev\2013\AutoTesting11\Testers\obj\x86\Release\Testers.dll
+E:\DATA\uDev\2013\AutoTesting11\Testers\obj\x86\Release\Testers.pdb
+D:\2014\AutoTesting11\Testers\bin\x86\Release\Testers.dll
+D:\2014\AutoTesting11\Testers\bin\x86\Release\Testers.pdb
+D:\2014\AutoTesting11\Testers\bin\x86\Release\Utilities.dll
+D:\2014\AutoTesting11\Testers\bin\x86\Release\Utilities.pdb
+D:\2014\AutoTesting11\Testers\obj\x86\Release\ControlSystems.Tester.FormTagMeterParameter.resources
+D:\2014\AutoTesting11\Testers\obj\x86\Release\Testers.csproj.GenerateResource.Cache
+D:\2014\AutoTesting11\Testers\obj\x86\Release\Testers.dll
+D:\2014\AutoTesting11\Testers\obj\x86\Release\Testers.pdb
+E:\DATA\uDev\2013\AutoTesting11\Testers\obj\x86\Release\Testers.TagMeter.FormTagMeterParameter.resources
+E:\DATA\uDev\2013\AutoTesting11\Testers\obj\x86\Release\Testers.csprojResolveAssemblyReference.cache
