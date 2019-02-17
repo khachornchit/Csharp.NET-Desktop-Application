@@ -1,5 +1,5 @@
 # C#.NET Desktop Application Development
-`It was a desktop application written in C#.NET. It was the integration of User Interface, Electronics Measurement module, Machine Controller Module, Microsoft SQL Server, and SAP Integration.'
+`It was a desktop application written in C#.NET. It was the integration of User Interface, Electronics Measurement module, Machine Controller Module, Microsoft SQL Server, and SAP Integration.`
 
 #### Core Function
 
@@ -16,7 +16,7 @@ Developed measurement module to measure unit at the test position to measure and
 * User Experience (UX) and User Interface (UI)
 * C#.NET Framework
 * OOP Concept
-* Microsoft SQL Server
+* Microsoft SQL Server 2012 Administrator
+* Multiple Microsoft SQL Server interface up to 10+ servers
 * SAP Integration
 * High volume of database up to 50+ million
-
